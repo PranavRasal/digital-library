@@ -17,7 +17,7 @@ StudyShelf is a modern, student-friendly digital library platform developed with
     - 11th Science
     - 12th Commerce
     - 12th Science
-    - Novels & Literature
+    - Novels & Literature(marathi , hindi , english)
 
 - **Stream Segregation for 11th & 12th**:
   - **11th & 12th Commerce**: Dedicated subject tabs for *Bookkeeping & Accountancy*, *Economics*, *Organisation of Commerce & Management (OCM)*, *Secretarial Practice (SP)*, and *Mathematics & Statistics*.
