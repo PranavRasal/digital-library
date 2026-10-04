@@ -60,6 +60,23 @@ Open your browser and navigate to `http://localhost:5173/` (or the port indicate
 npm run build
 ```
 
+## ☁️ Deploy to Vercel
+
+This repository is configured for Vercel as a static Vite application:
+
+1. Push the repository to GitHub.
+2. In Vercel, select **Add New Project** and import the repository.
+3. Keep the detected framework as **Vite**, then click **Deploy**.
+
+The included `vercel.json` builds the app with `npm run build`, serves the generated `dist/` directory, and routes client-side URLs back to `index.html`. PDF files in `data/` are copied into the production output automatically.
+
+For a CLI deployment, install the Vercel CLI and run:
+
+```bash
+npm install --global vercel
+vercel
+```
+
 ---
 
 ## 📁 Project Architecture
