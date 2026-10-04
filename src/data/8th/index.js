@@ -11,7 +11,7 @@ export const books8th = [
     pages: 140,
     coverColor: 'from-blue-600 to-indigo-800',
     coverImage: 'https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&auto=format&fit=crop&q=80',
-    pdfFile: '/data/8th/8th-maths.pdf',
+    pdfFile: '/data/8th/8maths.pdf',
     description: 'Comprehensive 8th standard Maharashtra State Board Mathematics textbook covering rational numbers, equations, parallel lines, factorization, and statistics.',
     chapters: [
       '1. Rational and Irrational Numbers',
@@ -36,7 +36,7 @@ export const books8th = [
     pages: 156,
     coverColor: 'from-emerald-600 to-teal-800',
     coverImage: 'https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&auto=format&fit=crop&q=80',
-    pdfFile: '/data/8th/8th-science.pdf',
+    pdfFile: '/data/8th/science.pdf',
     description: 'Maharashtra State Board textbook for Class 8 General Science exploring living world, health and diseases, atomic structure, and environmental balance.',
     chapters: [
       '1. Living World and Classification of Microbes',
@@ -61,7 +61,7 @@ export const books8th = [
     pages: 128,
     coverColor: 'from-amber-600 to-orange-800',
     coverImage: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=600&auto=format&fit=crop&q=80',
-    pdfFile: '/data/8th/8th-english.pdf',
+    pdfFile: '/data/8th/english.pdf',
     description: 'Class 8 English prose, poetry, and grammar book fostering language skills, vocabulary, and literary appreciation.',
     chapters: [
       'Unit 1: A Time to Believe & The Boy Who Broke the Bank',
@@ -82,7 +82,7 @@ export const books8th = [
     pages: 112,
     coverColor: 'from-rose-600 to-red-800',
     coverImage: 'https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=600&auto=format&fit=crop&q=80',
-    pdfFile: '/data/8th/8th-history.pdf',
+    pdfFile: '/data/8th/history.pdf',
     description: 'Detailed coverage of Indian freedom struggle, social and religious reforms, and Indian parliamentary system for 8th standard.',
     chapters: [
       '1. Sources of History',
@@ -105,7 +105,7 @@ export const books8th = [
     pages: 104,
     coverColor: 'from-cyan-600 to-blue-800',
     coverImage: 'https://images.unsplash.com/photo-1524661135-423995f22d0b?w=600&auto=format&fit=crop&q=80',
-    pdfFile: '/data/8th/8th-geography.pdf',
+    pdfFile: '/data/8th/geography.pdf',
     description: 'Local time, interior of the earth, humidity, cloud formations, ocean currents, and land use studies.',
     chapters: [
       '1. Local Time and Standard Time',
