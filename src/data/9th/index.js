@@ -105,7 +105,7 @@ export const books9th = [
     pages: 120,
     coverColor: 'from-rose-600 to-red-800',
     coverImage: 'https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=600&auto=format&fit=crop&q=80',
-    pdfFile: '/data/9th/9th-social.pdf',
+    pdfFile: '/data/9th/9th-history.pdf',
     description: 'Post-independence India, wars, economic development, empowerment of women, and international relations.',
     chapters: [
       '1. Sources of History',
