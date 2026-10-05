@@ -24,29 +24,6 @@ export const booksNovels = [
     ]
   },
   {
-    id: 'novel-wings-of-fire',
-    title: 'Wings of Fire',
-    classId: 'novels',
-    subject: 'Autobiography',
-    stream: 'Inspirational',
-    board: 'Indian Non-Fiction',
-    author: 'Dr. A.P.J. Abdul Kalam',
-    format: 'PDF',
-    fileSize: '4.1 MB',
-    pages: 180,
-    genre: 'Autobiography / Science & Nation Building',
-    coverColor: 'from-blue-700 to-indigo-950',
-    coverImage: 'https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80',
-    pdfFile: '/data/novels/novel-wings-of-fire.pdf',
-    description: 'The uplifting autobiography of the Missile Man of India and former President Dr. Kalam, recounting his humble origins and scientific triumphs.',
-    chapters: [
-      'Orientation (1931-1963): Rameswaram Childhood',
-      'Creation (1963-1980): Thumba & SLV-3 Success',
-      'Propitiation (1981-1991): Guided Missile Development',
-      'Contemplation (1991 onwards): Vision for 2020'
-    ]
-  },
-  {
     id: 'novel-shyamchi-aai',
     title: 'Shyamchi Aai (श्यामची आई)',
     classId: 'novels',
